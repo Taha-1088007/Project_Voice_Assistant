@@ -1,7 +1,7 @@
 # Project_Voice_Assistent
 
 Dit is mijn zelfgemaakte Python-project voor het vak Studieloopbaancoaching. 
-De voice assitent reageert op mijn commando's en kan onder andere ook websites openen.
+De voice assistant reageert op mijn commando's en kan onder andere ook websites openen.
 
 Libraries: 
 - webbrowser
