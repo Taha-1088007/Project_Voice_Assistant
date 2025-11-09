@@ -12,7 +12,7 @@ Libraries:
 - pygame mixer
 - gTTs
 
-Functies: 
+Functies (momenteel): 
 - openen van websites via commando's
 - kan tijd en datum aangeven 
 - Spraakherkenning
