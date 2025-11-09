@@ -16,5 +16,5 @@ Functies (momenteel):
 - openen van websites via commando's
 - kan tijd en datum aangeven 
 - Spraakherkenning
-- tekst naar spraak
+
 
